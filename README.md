@@ -76,3 +76,10 @@ BOT names are prefixed with real prefix ship in most situations. This also appli
 BOT from <b>Azur Lane Collaboration Events</b> not included.<br>
 <B>Universal Bulin</b> not included.<br>
 The update will following the Azur Lane World Wide version.
+
+# Special Thanks
+Wargaming.net<br>
+Shanghai Manjuu Technology Co.,Ltd<br>
+Xiamen YongShi Technology Co.,Ltd<br>
+Yostar Co.,Ltd<br>
+Valve Corporation
