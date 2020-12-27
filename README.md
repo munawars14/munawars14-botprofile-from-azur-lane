@@ -54,7 +54,7 @@ BOT difficulty below is based on the rarity of each <b>Azur Lane</b> ship.
 
 <H4>D. Exclusive Prefix</h4>
 
-BOT names are prefixed with real prefix ship in most situations. This also applies to bots from the ships <b>World of Warships.</b>
+BOT names are prefixed with real prefix ship in most situations. This also applies to bots from the ships <b>World of Warships</b>.
 
 <b>1. Terrorists (Crimson Axis)</b>
 - KMS (Iron Blood)
