@@ -73,7 +73,7 @@ BOT names are prefixed with real prefix ship in most situations. This also appli
 <b>3. Random Team</b>
 - KRI (Kapal Republik Indonesia)
 
-# Link Download
+# Link Download (Via Google Drive)
 - V 1 <b>[BUG]</b>
   - Link : <a href="https://drive.google.com/file/d/1-ESTlVCcOfKZD6tpD-te4LGFKcki5JNV/view"><b>Click Here</b></a>
 - V 1.5 <b>[BUG]</b>
