@@ -76,6 +76,22 @@ BOT names are prefixed with real prefix ship in most situations. This also appli
 # Link Download (in editing progress)
 - V 1 <b>[BUG]</b>
   - Link : <a href="https://drive.google.com/file/d/1-ESTlVCcOfKZD6tpD-te4LGFKcki5JNV/view"><b>Click Here</b></a>
+- V 1.5 <b>[BUG]</b>
+  - Link : <a href="https://drive.google.com/file/d/1-ZliNPjA4Kj3lZx-88lfO7ciaPbpIRV7/view"><b>Click Here</b></a>
+- V 1.6
+  - Link : <a href="https://drive.google.com/file/d/1-rMDwspCtlpXpE8tv5KX38B-qIrNrUrF/view"><b>Click Here</b></a>
+- V 1.7
+  - Link : <a href="https://drive.google.com/file/d/1-sidMzSBjyXLL50IMnUXz8_XV8SVmYMt/view"><b>Click Here</b></a>
+- V 1.8
+  - Link : <a href="https://drive.google.com/file/d/10J6vSqEKOzgCwiZJ64q-4CzVeyEOtuvv/view"><b>Click Here</b></a>
+- V 2
+  - Link : <a href="https://drive.google.com/file/d/10PDOu4f42M9M33kk5jUiFJMIA4HT_3DY/view"><b>Click Here</b></a>
+- V 2.1
+  - Link : <a href="https://drive.google.com/file/d/1BUEr990YN5qmgUrlWTf2CGx1zyv2UAzG/view"><b>Click Here</b></a>
+- V 2.2
+  - Link : <a href="https://drive.google.com/file/d/1K0Jz4mHMRVJZX8cEoIqzGgeQJoYUWKrw/view"><b>Click Here</b></a>
+- V 2.3
+  - Link : <a href="https://drive.google.com/file/d/1ZkzQcjYDgoSaIgrkP_7JVepGGNLPiLKX/view"><b>Click Here</b></a>
 
 # Trivia
 - All bot names are taken from the games <b>Azur Lane</b> and <b>World of Warships</b>.
@@ -87,8 +103,8 @@ BOT names are prefixed with real prefix ship in most situations. This also appli
 - The update will following the Azur Lane World Wide version.
 
 # Special Thanks
-Wargaming.net<br>
-Shanghai Manjuu Technology Co.,Ltd<br>
-Xiamen YongShi Technology Co.,Ltd<br>
-Shanghai Yostar Co.,Ltd<br>
-Valve Corporation
+- Wargaming.net<br>
+- Shanghai Manjuu Technology Co.,Ltd and Xiamen YongShi Technology Co.,Ltd<br>
+- Shanghai Yostar Co.,Ltd<br>
+- Turtle Rock Studios
+- Valve Corporation
