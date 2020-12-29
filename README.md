@@ -75,13 +75,14 @@ BOT names are prefixed with real prefix ship in most situations. This also appli
 
 # Link Download (in editing progress)
 - V 1 <b>[BUG]</b>
-  - Link : <a target="_blank" href="https://drive.google.com/file/d/1-ESTlVCcOfKZD6tpD-te4LGFKcki5JNV/view"><b>Click Here</b></a>
+  - Link : <a href="https://drive.google.com/file/d/1-ESTlVCcOfKZD6tpD-te4LGFKcki5JNV/view"><b>Click Here</b></a>
 
 # Trivia
 - All bot names are taken from the games <b>Azur Lane</b> and <b>World of Warships</b>.
 - Bot with the <b>KRI</b> prefix is ​​not in the game <b>Azur Lane</b> and only in the game <b>World of Warships</b>.
 - Bots from the game <b>World of Warships</b> will randomly join the team.
-- BOT from <b>Azur Lane Collaboration Events</b> not included.<br>
+- Bot from <b>Azur Lane Collaboration Events</b> not included.<br>
+- Bot from <b>Operation Siren</b> not included.
 - <B>Universal Bulin</b> not included.<br>
 - The update will following the Azur Lane World Wide version.
 
@@ -89,5 +90,5 @@ BOT names are prefixed with real prefix ship in most situations. This also appli
 Wargaming.net<br>
 Shanghai Manjuu Technology Co.,Ltd<br>
 Xiamen YongShi Technology Co.,Ltd<br>
-Yostar Co.,Ltd<br>
+Shanghai Yostar Co.,Ltd<br>
 Valve Corporation
