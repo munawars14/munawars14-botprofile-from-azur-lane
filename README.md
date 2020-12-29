@@ -73,8 +73,11 @@ BOT names are prefixed with real prefix ship in most situations. This also appli
 <b>3. Random Team</b>
 - KRI (Kapal Republik Indonesia)
 
+# Link Download (in editing progress)
+- V 1 <b>[BUG]</b>
+  - Link : <a target="_blank" href="https://drive.google.com/file/d/1-ESTlVCcOfKZD6tpD-te4LGFKcki5JNV/view"><b>Click Here</b></a>
+
 # Trivia
-- Open the Github file <b>Download.md</b> above to see the <b>Download Link</b>.
 - All bot names are taken from the games <b>Azur Lane</b> and <b>World of Warships</b>.
 - Bot with the <b>KRI</b> prefix is ​​not in the game <b>Azur Lane</b> and only in the game <b>World of Warships</b>.
 - Bots from the game <b>World of Warships</b> will randomly join the team.
