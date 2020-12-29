@@ -73,9 +73,10 @@ BOT names are prefixed with real prefix ship in most situations. This also appli
 <b>3. Random Team</b>
 - KRI (Kapal Republik Indonesia)
 
-BOT from <b>Azur Lane Collaboration Events</b> not included.<br>
-<B>Universal Bulin</b> not included.<br>
-The update will following the Azur Lane World Wide version.
++ Open the Github file <b>Download.md</b> above to see the <b>Download Link</b>.
++ BOT from <b>Azur Lane Collaboration Events</b> not included.<br>
++ <B>Universal Bulin</b> not included.<br>
++ The update will following the Azur Lane World Wide version.
 
 # Special Thanks
 Wargaming.net<br>
