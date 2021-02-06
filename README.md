@@ -97,6 +97,8 @@ BOT names are prefixed with real prefix ship in most situations. This also appli
 - V 2.4.1
   - Link : <b>[Not Uploaded]</b>
 - V 2.5
+  - Link : <a href="https://drive.google.com/file/d/1tRU9uLSfvp6MyTC39OcNH81AXJBcarFF/view"><b>Click Here</b></a>
+- V 2.5.1
   - Link : <i>Waiting ...</i>
 
 # Trivia
