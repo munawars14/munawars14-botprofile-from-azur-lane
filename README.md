@@ -92,6 +92,12 @@ BOT names are prefixed with real prefix ship in most situations. This also appli
   - Link : <a href="https://drive.google.com/file/d/1K0Jz4mHMRVJZX8cEoIqzGgeQJoYUWKrw/view"><b>Click Here</b></a>
 - V 2.3
   - Link : <a href="https://drive.google.com/file/d/1ZkzQcjYDgoSaIgrkP_7JVepGGNLPiLKX/view"><b>Click Here</b></a>
+- V 2.4
+  - Link : <a href="https://drive.google.com/file/d/1bQWxSmUngbTd_0HaCVNk-wCHz-8a7ezt/view"><b>Click Here</b></a>
+- V 2.4.1
+  - Link : <b>[Not Uploaded]</b>
+- V 2.5
+  - Link : <i>Waiting ...</i>
 
 # Trivia
 - All bot names are taken from the games <b>Azur Lane</b> and <b>World of Warships</b>.
@@ -100,6 +106,7 @@ BOT names are prefixed with real prefix ship in most situations. This also appli
 - Bot from <b>Azur Lane Collaboration Events</b> not included.<br>
 - Bot from <b>Operation Siren</b> not included.
 - <B>Universal Bulin</b> not included.<br>
+- The Bots is <i>not suitable</i> for <b>Condition Zero</b> in <b>Tour of Duty</b>.
 - The update will following the Azur Lane World Wide version.
 
 # Special Thanks
