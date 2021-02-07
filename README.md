@@ -1,4 +1,4 @@
-# munawars14-botprofile-from-azur-lane (in editing progress)
+# munawars14-botprofile-from-azur-lane
 This is a modification of the BotProfile of CS 1.6. I modified the BOT name from the <b>Azur Lane</b> and <b>World of Warships</b> games.
 <h3>Features</h3>
 <h4>A. Team Configuration</h4>
